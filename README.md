@@ -6,4 +6,4 @@
 - HTML, CSS, jQuery
 - 반응형 제작
 
-👉서비스 링크: https://young-yoii.github.io/portfolio-sunset-publishing/
+👉서비스 링크: https://young-yoii.github.io/sunset-beer
